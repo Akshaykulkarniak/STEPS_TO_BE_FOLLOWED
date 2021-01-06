@@ -1,4 +1,4 @@
-# STEPS_TO_BE_FOLLOWED
+# STEPS_TO_BE_FOLLOWED_YOCTO_SETUP
 Steps to bring up the setup
 
 
