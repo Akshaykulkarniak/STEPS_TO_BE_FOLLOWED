@@ -1,5 +1,5 @@
 ## STEPS_TO_BE_FOLLOWED_YOCTO_SETUP
-Steps to bring up the setup
+Steps to bring up the Yocto source code setup for WP Series modules from sierra wireless
 
 
 Installation of Dependent Libraries 
